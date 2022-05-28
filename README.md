@@ -1,2 +1,1 @@
-# dio-desafio-tqi
-desafio git do bootcamp
+# Desafio do bootcamp DIO-TQi
