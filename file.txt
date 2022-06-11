@@ -1,0 +1,11 @@
+ O volume na unidade D ‚ data
+ O N£mero de S‚rie do Volume ‚ C241-F270
+
+ Pasta de D:\Geral\workspace\developer\projetos\dio\tqi\dio-desafio-tqi
+
+11/06/2022  00:42    <DIR>          .
+11/06/2022  00:42    <DIR>          ..
+11/06/2022  00:42                 0 file.txt
+11/06/2022  00:41                31 README.md
+               2 arquivo(s)             31 bytes
+               2 pasta(s)   488.597.143.552 bytes dispon¡veis
